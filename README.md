@@ -1,8 +1,10 @@
 # Interactive Squiggle Kit
 
+I've set this repository up as a publically available contribution project that will continue to evolve over time.
+
 ### Art Blocks Chromie Squiggle ~ 3d print + LED lights
 
-Want to 3d print your Art Blocks Chromie Squiggle? Want to add glowing lights? This fun iterative kit allows you to bring digital and physical artwork together. A fun experimental project I will continue to improve as time allows with the final goal of a physical object that when touched can display led light animations that match the Chromie Squiggle number.
+Want to 3d print your Art Blocks Chromie Squiggle? Want to add glowing lights? This fun iterative kit allows you to bring digital and physical artwork together. A fun experimental project with a general goal of a physical object that, when touched, can display interactive LED light animations that match the Chromie Squiggle number.
 
 ![image](https://pbs.twimg.com/media/F6av1lSaUAAn9eo?format=jpg&name=large)
 
