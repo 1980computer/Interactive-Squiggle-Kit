@@ -15,15 +15,15 @@ Simple and easily identifiable, each squiggle embodies the soul of the Art Block
 
 ### 3D Printing
 
-How to:
-Included files:
-Libraries required:
+1. How to:
+2. Included files:
+3. Libraries required:
 
 ### LED Installation
 
-How to:
-Included files:
-Libraries required:
+1. How to:
+2. Included files:
+3. Libraries required:
 
 ### Creative Commons 0
 
