@@ -6,7 +6,7 @@ I've set this repository up as a publically available contribution project that 
 
 Want to 3d print your Art Blocks Chromie Squiggle? Want to add glowing lights? This fun iterative kit allows you to bring digital and physical artwork together. A fun experimental project with a general goal of a physical object that, when touched, can display interactive LED light animations that match the Chromie Squiggle number.
 
-![image](https://github.com/davidbanthony/Interactive-Squiggle-Kit/blob/main/repo.jpg?raw=true)
+![image](https://github.com/davidbanthony/Interactive-Squiggle-Kit/blob/main/repo.gif)
 
 -------------
 
@@ -21,9 +21,10 @@ Note: 3D asset was quickly created as an example. Updates will be made to improv
 
 ![image](https://github.com/davidbanthony/Interactive-Squiggle-Kit/blob/main/assets%203D%20printing/preview-side.jpg?raw=true)
 
-1. How to:
-2. Included files:
-3. Libraries required:
+Material: (similar) acrylic #2447 white acrylic, translucent.
+
+- Included files: Blender 3D
+- Libraries required: ...
 
 ### LED Installation
 
@@ -31,9 +32,12 @@ Note: Arduino FastLED assets were quickly created as an example. Updates will be
 
 ![image]()
 
-1. How to:
-2. Included files:
-3. Libraries required:
+- Controller: Arduino
+- LEDs: Adafruit Neopixel
+- Power: 5V Power Supply
+
+- Included files: Arduino IDE
+- Libraries required: Fast LED
 
 ### Creative Commons 0
 
