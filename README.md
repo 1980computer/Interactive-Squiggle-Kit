@@ -1,5 +1,7 @@
 # Interactive Squiggle Kit
 
+[BLOG POST](https://1980k.com/blog/marfa)
+
 I've set this repository up as a publically available contribution project that will continue to evolve over time.
 
 ### Art Blocks Chromie Squiggle ~ 3d print + LED lights
@@ -12,7 +14,7 @@ Want to 3d print your Art Blocks Chromie Squiggle? Want to add glowing lights? T
 
 ### What is a Squiggle?
 
-[View the collection](hhttps://www.artblocks.io/collections/curated/projects/0x059edd72cd353df5106d2b9cc5ab83a52287ac3a/0) ~ 
+[View the collection](https://www.artblocks.io/collections/curated/projects/0x059edd72cd353df5106d2b9cc5ab83a52287ac3a/0) ~ 
 Simple and easily identifiable, each squiggle embodies the soul of the Art Blocks platform. Consider each my personal signature as an artist, developer, and tinkerer. Public minting of the Chromie Squiggle is permanently paused. They are now reserved for manual distribution to collectors and community members over a longer period of time. Please visit OpenSea to explore Squiggles available on the secondary market.
 
 ### 3D Printing
@@ -30,14 +32,13 @@ Material: (similar) acrylic #2447 white acrylic, translucent.
 
 Note: Arduino FastLED assets were quickly created as an example. Updates will be made to improve the code.
 
-![image]()
-
 - Controller: Arduino
 - LEDs: Adafruit Neopixel
 - Power: 5V Power Supply
-
 - Included files: Arduino IDE
 - Libraries required: Fast LED
+
+![image](https://images.squarespace-cdn.com/content/v1/6323407806527435ec6898dc/1695656208995-YSP7K5BKX7WAQGVYP1NM/IMG_9993.jpg)
 
 ### Creative Commons 0
 
